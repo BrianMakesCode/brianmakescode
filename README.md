@@ -1,6 +1,6 @@
 ## Good to see you! I'm Brian.👋
 
-![](https://komarev.com/ghpvc/?username=brianmakescode&color=white)
+![](https://komarev.com/ghpvc/?username=brianmakescode&color=fb4362)
 
 <h3>As I write code, I make use of...</h3>
 <p>
