@@ -1,4 +1,4 @@
-## Hi there I'm Brian Brown 👋
+## Good to see you! I'm Brian.👋
 
 ![](https://komarev.com/ghpvc/?username=brianmakescode&color=white)
 
