@@ -24,7 +24,7 @@
 <h3>Operating systems that I use to code...</h3>
 
 <img alt="Windows" src="https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white" />
-<img alt="MacOS" alt="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0" />
+<img alt="MacOS" alt="https://img.shields.io/badge/MacOS-f0f0f0?logo=apple&logoColor=black&style=for-the-badge" />
 
     
 </p>
